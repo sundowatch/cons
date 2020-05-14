@@ -23,6 +23,8 @@ You can simply use the ```Cons``` on the client side:
 </script>
 ```
 
+Or you can use CDN to include the library: `https://cdn.jsdelivr.net/gh/sundowatch/cons/cons.min.js`
+
 ## Constructor
 You easily create the object's constructor. Here is the parameters:
 
